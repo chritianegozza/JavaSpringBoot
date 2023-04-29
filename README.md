@@ -22,3 +22,4 @@ Spring Boot
 
 ******************************************************************************************************
 Caso vocês queriam conhecer mais sobre o projeto original do professor, pode acessar [aqui.](https://github.com/digitalinnovationone/dio-springboot)
+Para acessar o material do professor entre [aqui.](https://docs.google.com/presentation/d/1jS5Ov8UCSnzgW3TLBcAsGrXo__kL6FOG/edit#slide=id.p2)
